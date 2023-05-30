@@ -4,6 +4,11 @@
 
 Using the __ News API __, the application fetches news articles from a wide range of reliable sources, including renowned news agencies, newspapers, and online publications. The API provides access to a vast repository of news articles, ensuring that users have access to a diverse and comprehensive selection of news topics.</p>
 ![First Screen](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/1.jpeg)
+![Loading the activity](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/2.jpeg)
+![The recycler view](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/3.jpeg)
+![Categories](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/4.jpeg)
+![](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/5.jpeg)
+![](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/6.jpeg)
 
 
 
