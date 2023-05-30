@@ -8,6 +8,7 @@ Using the __ News API __, the application fetches news articles from a wide rang
 https://newsapi.org/ 
 
 # Data Fetching:
+## I used Retrofit library to implement the fetching.
 https://square.github.io/retrofit/
 
 # Picasso
