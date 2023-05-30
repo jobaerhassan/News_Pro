@@ -14,6 +14,9 @@ https://square.github.io/retrofit/
 # Picasso
 https://square.github.io/picasso/
 
+# UI Appearance
+</br>
+
 ![First Screen](https://github.com/jobaerhassan/News_Pro/blob/main/News%20Pro%20pic/1.jpeg)
 
 
